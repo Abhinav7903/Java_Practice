@@ -1,4 +1,4 @@
-package Java;
+
 import java.util.Arrays;
 public class BubbleSort {
     public static void bubbleSort(int[] arr) {

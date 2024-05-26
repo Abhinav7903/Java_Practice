@@ -1,4 +1,3 @@
-package Java;
 
 public class WordCount {
     public static int wordCount(String str) {

@@ -1,4 +1,4 @@
-package Java;
+
 public class PalindromeNumber {
     public static boolean isPalindrome(int num) {
         int reversedNum = 0;

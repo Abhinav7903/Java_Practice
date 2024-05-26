@@ -1,4 +1,3 @@
-package Java;
 
 public class ArmstrongNumber {
     public static boolean isArmstrong(int num) {

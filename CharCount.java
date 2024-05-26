@@ -1,4 +1,3 @@
-package Java;
 
 public class CharCount {
     public static int charCount(String sentence) {

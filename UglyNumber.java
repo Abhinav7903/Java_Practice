@@ -1,4 +1,4 @@
-package Java;
+
 
 public class UglyNumber {
     public static boolean isUgly(int num) {

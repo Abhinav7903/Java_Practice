@@ -1,4 +1,4 @@
-package Java;
+
 public class PrimeNumber {
     public static boolean isPrime(int num) {
         if (num <= 1)
