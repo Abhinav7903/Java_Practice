@@ -1,2 +1,2 @@
-#Java Practice Problem
+# Java Practice Problem
 Problem Solving in java
